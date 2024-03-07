@@ -14,7 +14,7 @@ I'm a software developer passionate about coding and open source. Here are a few
 
 ## Contacts:
 - 📫 How to reach me: [cephas@tindaxtech.com]
-- 📫 Connect with me: [LINKEDIN](http://linkedin.com/in/cephaz6)
+- 📫 Connect with me: [LinkedIn](http://linkedin.com/in/cephaz6)
 
 
 - ⚡ Fun fact: I'm hoping to solve a Rubik's Cube in under a minute! 🧩
