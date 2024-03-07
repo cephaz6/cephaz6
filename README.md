@@ -9,8 +9,8 @@ I'm a software developer passionate about coding and open source. Here are a few
 #
 
 ## My Work:
-  ### Built [<img src="https://mybethpay.com/assets/images/logo-light.png" width="100">](https://mybethpay.com) 
-  ### Voluteering at [<img src="https://foundation.tindaxtech.com/assets/img/tindax-preview.png" width="100">](https://tindaxtech.com) 
+  ### [<img src="https://mybethpay.com/assets/images/logo-light.png" width="100">](https://mybethpay.com) 
+  ### [<img src="https://foundation.tindaxtech.com/assets/img/tindax-preview.png" width="100">](https://tindaxtech.com) 
 
 ## Contacts:
 - 📫 How to reach me: [cephas@tindaxtech.com]
