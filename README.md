@@ -2,7 +2,7 @@
 
 I'm a software developer passionate about coding and open source. Here are a few things about me:
 
-- 🌱 I'm currently taking my M.Sc program (Software Engineering
+- 🌱 I'm currently on my M.Sc program (Software Engineering)
 - 👯 I’m looking to collaborate on open-source projects on APIS and the MERN stack.
 - 💬 Ask me about APIS, MERN Stack, Databases, SCRUM, DevOps
 
