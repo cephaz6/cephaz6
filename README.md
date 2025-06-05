@@ -12,7 +12,7 @@ Here are a few things about me:
 #
 
 ## My Work:
-  #### [<img src="https://tindaxtech.com/assets/img/tindax-preview.png" width="100">](https://tindaxtech.com) 
+  #### [<img src="https://tindaxtech.com/assets/img/lol.png" width="100">](https://tindaxtech.com) 
 
 ## Contacts:
 - 📫 How to reach me: [cephas@tindaxtech.com]
