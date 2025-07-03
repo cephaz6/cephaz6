@@ -15,5 +15,3 @@ Here are a few things about me:
 - 📫 How to reach me: [cephas@tindaxtech.com]
 - 📫 Connect with me: [LinkedIn](http://linkedin.com/in/cephaz6)
 
-
-- ⚡ Fun fact: I'm hoping to solve a Rubik's Cube in under a minute! 🧩
