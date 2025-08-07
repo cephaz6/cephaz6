@@ -14,4 +14,5 @@ Here are a few things about me:
 ## Contacts:
 - 📫 How to reach me: [cephas@tindaxtech.com]
 - 📫 Connect with me: [LinkedIn](http://linkedin.com/in/cephaz6)
+- 📫 My Portfolio: [Oselumese](https://cephas-portfolio.vercel.app/)
 
