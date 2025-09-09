@@ -5,7 +5,7 @@ I transform innovative ideas into functional and scalable solutions with strong 
 
 Here are a few things about me:
 
-- 🌱 I'm currently on my M.Sc program (Software Engineering)
+- 🌱 I recently grabbed an M.Sc in Software Engineering
 - 👯 I’m looking to collaborate on open-source projects on APIS and the MERN stack.
 - 💬 Ask me about APIS, MERN Stack, Databases, SCRUM, DevOps
 
