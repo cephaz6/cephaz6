@@ -1,18 +1,22 @@
-# Hello, I'm Cephas Oselumese 👋
+# ⚡ Cephas Oselumese
 
-I'm a software developer passionate about coding and open source. 
-I transform innovative ideas into functional and scalable solutions with strong coding and problem-solving skills. I craft software that meets and exceeds user expectations and I excel in cross-functional team collaboration. My passion for continuous learning drives my impact in software development.
+> Architecting systems at Medhaya. Orchestrating scale. Shipping ideas into reality.
 
-Here are a few things about me:
+I’m a software engineer focused on building resilient backend systems, scalable APIs, and developer-centric platforms.  
+I operate at the intersection of **code, infrastructure, and automation**—turning complex problems into elegant, production-ready systems.
 
-- 🌱 I recently grabbed an M.Sc in Software Engineering
-- 👯 I’m looking to collaborate on open-source projects on APIS and the MERN stack.
-- 💬 Ask me about APIS, MERN Stack, Databases, SCRUM, DevOps
+---
 
-#
+## 🧠 Core Focus
 
-## Contacts:
-- 📫 How to reach me: [cephas@tindaxtech.com]
-- 📫 Connect with me: [LinkedIn](http://linkedin.com/in/cephaz6)
-- 📫 My Portfolio: [Oselumese](https://cephas-portfolio.vercel.app/)
+- ⚙️ Backend Engineering (Python, FastAPI, Node.js)
+- ☁️ Cloud Infrastructure (AWS)
+- 🐳 Containerization & Orchestration (Docker, Kubernetes)
+- 🔁 CI/CD Pipelines (GitHub Actions)
+- 🗄️ Data Systems (PostgreSQL, MongoDB, Redis)
+- 🔐 API Design, Auth Systems, and System Architecture
 
+
+## 🚀 Featured Project
+
+### 🧩 DevTask Tracker
