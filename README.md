@@ -7,7 +7,7 @@ I operate at the intersection of **code, infrastructure, and automation**—turn
 
 ---
 
-## 🧠 Core Focus
+## Core Focus
 
 - ⚙️ Backend Engineering (Python, FastAPI, Node.js)
 - ☁️ Cloud Infrastructure (AWS)
