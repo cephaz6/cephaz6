@@ -17,6 +17,3 @@ I operate at the intersection of **code, infrastructure, and automation**—turn
 - 🔐 API Design, Auth Systems, and System Architecture
 
 
-## 🚀 Featured Project
-
-### 🧩 DevTask Tracker
