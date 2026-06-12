@@ -15,5 +15,3 @@ I operate at the intersection of **code, infrastructure, and automation**, turni
 - 🔁 CI/CD Pipelines (GitHub Actions)
 - 🗄️ Data Systems (PostgreSQL, MongoDB, Redis)
 - 🔐 API Design, Auth Systems, and System Architecture
-
-
